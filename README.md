@@ -1,1 +1,3 @@
-# VoidMesh
+This project applies various machine learning models to predict diabetes based on patient data, focusing on handling significant class imbalance without oversampling techniques. Using a real-world dataset of 100,000 patient records from Kaggle, five classification algorithms—Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN), Random Forest, and Neural Network—were implemented and evaluated.
+
+Through extensive preprocessing, feature engineering, and model tuning, tree-based models (Random Forest and Decision Tree) demonstrated the highest performance, achieving over 96% accuracy, strong F1-scores for the diabetic class, and high AUC values. The project highlights the challenges of imbalanced medical datasets and the effectiveness of machine learning for early disease prediction.
